@@ -162,8 +162,7 @@ img {
 }
 
 .logo {
-	max-height: 2.5em;
-	margin-bottom: 22px;
+	max-width: 350px;
 }
 
 .portfolio {
@@ -204,7 +203,7 @@ iframe {
 		max-width: 300px;
 	}
 	.logo {
-		max-width: 88px;
+		max-width: 200px;
 	}
 	nav, .portfolio {
 		flex-direction: column;
