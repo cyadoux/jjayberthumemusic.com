@@ -162,14 +162,10 @@ img {
 }
 
 .logo {
-	max-height: 100px;
+	max-height: 2.5em;
 	vertical-align: middle;
 	padding-right: 0.25em;
 	margin-bottom: 22px;
-}
-
-.logo-text {
-	box-sizing: content-box;
 }
 
 .portfolio {
