@@ -162,7 +162,7 @@ img {
 }
 
 .logo {
-	height: 2.5em;
+	max-height: 2.5em;
 	margin-bottom: 22px;
 }
 
