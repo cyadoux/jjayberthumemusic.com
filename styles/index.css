@@ -264,6 +264,9 @@ iframe {
 	.portfolio {
 		justify-content: space-around;
 	}
+	.social {
+		flex-direction: column;
+	}
 }
 
 /* Small screens */
@@ -280,7 +283,7 @@ iframe {
 	.logo {
 		max-width: 200px;
 	}
-	nav, .portfolio, .social {
+	nav, .portfolio {
 		flex-direction: column;
 	}
 }
